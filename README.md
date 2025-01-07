@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about turning raw data into actiona
 
 ## 🔧 **Skills & Tools**
 
-### **🖥️ Excel**
+### ** 🖥️ Excel**  
 - Advanced data manipulation & analysis
 - Pivot Tables, VLOOKUP, and Conditional Formatting
 - Data visualization using charts & graphs
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about turning raw data into actiona
 - Data modeling and DAX formulas
 - Data visualization best practices
 
-### **💻 MySQL**
+### **💻 MySQL** 
 - Writing & optimizing SQL queries
 - Data extraction and analysis
 - Database design and management
@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm passionate about turning raw data into actiona
 
 
 
-## 🌱 **Learning & Growth**
+ ## 🌱 **Learning & Growth**
 
 I’m continuously learning new techniques in data analysis, visualization, and database management. Currently, I'm focused on:
 - **Enhancing my Python skills** for deeper data manipulation.
